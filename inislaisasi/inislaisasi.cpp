@@ -13,7 +13,7 @@ public:
 		// definisi
 	{}
 		~mahasiswa() {
-			cout << "ID		= " << id << endl;
+			cout << "ID	= " << id << endl;
 			cout << "Nama	= " << nama << endl;
 			cout << "Nilai	= " << nilai << endl;
 		}
@@ -21,5 +21,7 @@ public:
 
 int main()
 {
+	mahasiswa mhs(12, "Zaky Malika", 100);
 
+	return 0;
 }
