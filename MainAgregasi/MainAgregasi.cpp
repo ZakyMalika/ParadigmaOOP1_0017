@@ -2,5 +2,6 @@
 #include <string>
 using namespace std;
 
-#include "ibu"
-#include "anak"
+#include "ibu.h"
+#include "anak.h"
+
