@@ -1,3 +1,8 @@
-#ifndef 1
+#ifndef MANUSIA_H
+#define	MANUSIA_H
+using namespace std;
 
+class manusia {
+
+};
 #endif // !1
