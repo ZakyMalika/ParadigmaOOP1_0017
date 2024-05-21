@@ -7,4 +7,7 @@ private:
 	const int id;
 	string nama;
 	float nilai;
+
+public:
+
 };
