@@ -4,12 +4,12 @@ using namespace std;
 
 class jantung {
 public:
-	jantung()
+	jantung() //konstruktor
 	{
 		cout << "jantung dihidupkan\n";
 
 	}
-	~jantung()
+	~jantung()//DEDUKTOR
 	{ 
 		cout << "jantung dimatikan\n";
 	}
